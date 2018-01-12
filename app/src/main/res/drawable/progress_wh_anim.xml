@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/pbw1"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/pbw2"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/pbw3"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/pbw4"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/pbw5"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/pbw6"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/pbw7"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/pbw8"
+        android:duration="100" />
+</animation-list>
